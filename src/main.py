@@ -21,7 +21,6 @@ class Request(BaseModel):
 
     """
 
-    file_path: str
     instructions: str
 
 
