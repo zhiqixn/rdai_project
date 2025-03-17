@@ -1,3 +1,6 @@
+## Description
+This repository contains a chat service that utilizes a Qwen 2.5 3B Instruct model to answer queries. 
+
 ## Setup
 
 ### Run docker container
